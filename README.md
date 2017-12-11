@@ -1,1 +1,1 @@
-# EmlakciDB
+# C# - PostgreSQL bağlantısı - EmlakciDB
