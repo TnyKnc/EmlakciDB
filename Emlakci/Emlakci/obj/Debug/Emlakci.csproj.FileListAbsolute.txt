@@ -1,0 +1,22 @@
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\bin\Debug\Emlakci.exe.config
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\bin\Debug\Emlakci.exe
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\bin\Debug\Emlakci.pdb
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\bin\Debug\Npgsql.dll
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\bin\Debug\Npgsql.xml
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.csprojResolveAssemblyReference.cache
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.Form1.resources
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.Properties.Resources.resources
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.csproj.GenerateResource.Cache
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.exe
+c:\users\tnyknc\documents\visual studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.pdb
+C:\Users\TnyKnc\Documents\Visual Studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.Site.resources
+C:\Users\TnyKnc\Documents\Visual Studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.Yoneticiler.resources
+C:\Users\TnyKnc\Documents\Visual Studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.daireSahipleri.resources
+C:\Users\TnyKnc\Documents\Visual Studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.binalar.resources
+C:\Users\TnyKnc\Documents\Visual Studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.daireler.resources
+C:\Users\TnyKnc\Documents\Visual Studio 2015\Projects\Emlakci\Emlakci\obj\Debug\Emlakci.DaireGorevlileri.resources
+C:\Users\TnyKnc\Desktop\Emlakci\Emlakci\bin\Debug\Emlakci.exe.config
+C:\Users\TnyKnc\Desktop\Emlakci\Emlakci\obj\Debug\Emlakci.exe
+C:\Users\TnyKnc\Desktop\Emlakci\Emlakci\obj\Debug\Emlakci.pdb
